@@ -13,6 +13,6 @@ spec:
     spec:
       containers:
       - name: mycontainer
-        image: maha4iac/mymahaapp:1
+        image: maha4iac/mahaonlinestore:1
         ports:
         - containerPort: 8080
